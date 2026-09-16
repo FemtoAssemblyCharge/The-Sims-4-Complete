@@ -1,0 +1,23 @@
+{
+  "repo": "the-sims-4-complete",
+  "product": "The Sims 4 Complete",
+  "kind": "game",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "life-sim",
+  "topics": [
+    "sims-4-complete",
+    "build-catalog-desk",
+    "gallery-lot-windows",
+    "sims-2026",
+    "how-to-install-sims-4",
+    "sims-desktop-package",
+    "career-event-suite",
+    "terrain-room-tools",
+    "life-sim-collection",
+    "sims-4-premium"
+  ],
+  "site": "toolix.me"
+}
